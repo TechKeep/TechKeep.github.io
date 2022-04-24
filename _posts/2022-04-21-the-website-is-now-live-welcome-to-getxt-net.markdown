@@ -1,5 +1,5 @@
 ---
-title: The website is now live. Welcome to getxt.net!
+title: The website is now live. Welcome to TechKeep.net!
 subtitle: This website will be updated very frequently until it reaches a stable state. More details below.
 layout: post
 category: post
@@ -8,13 +8,13 @@ categories: ['important', 'site-news']
 tags: ['important', 'site-news']
 cattagText: Site News
 cattag: site-news
-image: /img/uploads/2022-04-21/the-website-is-now-live-welcome-to-getxt-net/post-image.jpg
+image: /img/uploads/2022-04-21/the-website-is-now-live-welcome-to-techkeep-net/post-image.jpg
 photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
 ---
 
 {% include post-image.html %}
 
-<p>Welcome to getxt.net!</p>
+<p>Welcome to TechKeep.net!</p>
 
 <p>As you probably already noticed, this website is very new. You might still encounter a few "lorem ipsums" every now and then as I get everything sorted. That being said, I'm happy to finally have been able to publish this. It's been a long time coming, and frankly, I'm glad I pushed for it.</p>
 
@@ -32,4 +32,4 @@ photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
 
 <p>Alright, this pretty much sums it up. I hope you'll enjoy what this website will have to offer!</p>
 
-<p>- getxt</p>
+<p>- TechKeep</p>

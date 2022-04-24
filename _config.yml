@@ -1,8 +1,8 @@
-name: getxt.net
-title: getxt.net
+name: TechKeep.net
+title: TechKeep.net
 plugins: ['jekyll-paginate']
 paginate: 6
 paginate_path: /page/:num/
 permalink: /article/:title/
-url: https://getxt.net
+url: https://TechKeep.net
 baseurl: ""
