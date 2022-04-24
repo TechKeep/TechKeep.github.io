@@ -1,0 +1,13 @@
+---
+title: Site News
+subtitle: Site News Category
+layout: page
+permalink: /category/site-news
+hidden: true
+---
+
+<ul style="list-style-type:none;padding:0;margin:0;">
+{% for post in site.categories.site-news %}
+    <li style=""><a href="{{post.url}}">{{post.date | date: "%-d %b %Y"}} - {{post.title}}</a></li>
+{% endfor %}
+</ul>

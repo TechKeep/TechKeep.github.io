@@ -1,0 +1,8 @@
+name: getxt.net
+title: getxt.net
+plugins: ['jekyll-paginate']
+paginate: 6
+paginate_path: /page/:num/
+permalink: /article/:title/
+url: https://getxt.net
+baseurl: ""

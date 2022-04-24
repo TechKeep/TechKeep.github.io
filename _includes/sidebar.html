@@ -1,0 +1,20 @@
+<!-- Begin sidebar section -->
+<aside class="the-sidebar-container col-xl-3 col-lg-3 col-md-4 col-sm-12 col-xs-12">
+  <div class="the-sidebar-square">
+    <h3 class="the-sidebar-title">Recent posts</h3>
+    <div class="the-sidebar-square-content">
+      <ul style="list-style-type:none;padding:0;margin:0;">
+        {% for post in site.categories.site-news %}
+          <li style="padding:5px;"><a href="{{post.url}}">{{post.date | date: "%-d %b %Y"}} - {{post.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div> <!-- /the-sidebar-square -->
+
+  <!--<div class="the-sidebar-square">
+    <h3 class="the-sidebar-title">Advertisement</h3>
+    <div class="the-sidebar-square-content">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet consequat quam. Phasellus rutrum nibh nisl, id malesuada nisl blandit nec. Ut id dolor quis nulla semper convallis.</p>
+    </div>
+  </div>--> <!-- /the-sidebar-square -->
+</aside> <!-- /the-sidebar-container -->
