@@ -20,7 +20,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 
 &nbsp;
 
-<h4>Enable the new context menu</h4>
+<h4>Disable the new context menu</h4>
 
 <p>This is a pretty straightforward process.</p>
 
@@ -32,7 +32,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
 &nbsp;
-<h4>Disable the new context menu</h4>
+<h4>Re-enable the new context menu</h4>
 
 <p>If you previously have disabled the new context menu and wish to re-enable it, the process is just as easy.</p>
 
