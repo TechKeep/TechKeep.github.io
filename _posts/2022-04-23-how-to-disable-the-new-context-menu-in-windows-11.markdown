@@ -32,7 +32,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 &nbsp;
 <h4>Disable the new context menu</h4>
 
-<p>If you previously have done this and wish to re-enable the new context menu, the process is just as easy.</p>
+<p>If you previously have disabled the new context menu and wish to re-enable it, the process is just as easy.</p>
 
 <ol>
 	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
