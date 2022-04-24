@@ -7,6 +7,13 @@ main {
   padding: 20px 30px 20px 30px;
 }
 
+@media screen and (max-width: 500px) {
+  main {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
 pre {
   max-height: 400px;
 }
@@ -193,13 +200,6 @@ pre {
 
 .the-full-article-content {
   padding: 20px;
-}
-
-@media screen and (max-width: 500px) {
-  .flex-shrink-0, main {
-    padding-left: 0!important;
-    padding-right: 0!important;
-  }
 }
 
 .the-author-avatar {
