@@ -12,9 +12,11 @@ image: /img/uploads/2022-04-23/how-to-disable-the-new-context-menu-in-windows-11
 photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank">Microsoft</a>)</em>
 ---
 
+<meta name="description" content="For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now. Here's how.">
+
 {% include post-image.html %}
 
-<p>For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now.</p>
+<p>For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now. Here's how.</p>
 
 &nbsp;
 
