@@ -4,7 +4,7 @@ subtitle: This website will be updated very frequently until it reaches a stable
 layout: post
 category: post
 date: 2022-04-21 13:29:40
-categories: ['important', 'site-news']
+categories: ['sidebar-posts', 'important', 'site-news']
 tags: ['important', 'site-news']
 cattagText: Site News
 cattag: site-news
