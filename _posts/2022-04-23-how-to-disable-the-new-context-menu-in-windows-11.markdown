@@ -23,8 +23,8 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <p>This is a pretty straightforward process.</p>
 
 <ol>
-	<li>Open up the "Run" dialog using Win+R (pressing the Windows key and the R key at the same time)</li>
-	<li>Copy and paste the following code:</li>
+	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
+	<li>Copy and paste the following into the text field:</li>
 	<pre><code class="language-powershell">reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve</code></pre>
 	<li>Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
@@ -35,8 +35,8 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <p>If you previously have done this and wish to re-enable the new context menu, the process is just as easy.</p>
 
 <ol>
-	<li>Open up the "Run" dialog using Win+R (pressing the Windows key and the R key at the same time)</li>
-	<li>Copy and paste the following code:</li>
+	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
+	<li>Copy and paste the following into the text field:</li>
 	<pre><code class="language-powershell">reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f</code></pre>
 	<li>Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
