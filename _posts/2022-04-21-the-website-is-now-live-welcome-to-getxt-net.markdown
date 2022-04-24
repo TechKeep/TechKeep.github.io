@@ -16,7 +16,7 @@ photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
 
 <p>Welcome to TechKeep.net!</p>
 
-<p>As you probably already noticed, this website is very new. You might still encounter a few "lorem ipsums" every now and then as I get everything sorted. That being said, I'm happy to finally have been able to publish this. It's been a long time coming, and frankly, I'm glad I pushed for it.</p>
+<p>As you probably already noticed, this website is very new. You might still encounter a few irregular occurences every now and then as I get everything sorted. That being said, I'm happy to finally have been able to publish this. It's been a long time coming, and frankly, I'm glad I pushed for it.</p>
 
 <h6>Who am I?</h6>
 <p>I'm a general developer. By that, I mean that I'm a programmer and I do a little bit of everything. I never went public before, so I figured it was time I finally did!</p>
