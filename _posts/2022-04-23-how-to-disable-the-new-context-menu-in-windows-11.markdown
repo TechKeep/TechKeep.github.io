@@ -26,7 +26,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <ol>
 	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
 	<li>Copy and paste the following into the text field:</li>
-	<li style="list-style-type:none;"><pre><code class="language-powershell">reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve</code></pre></li>
+	<li style="list-style-type:none;"><code class="">reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve</code></li>
 	<li value="3">Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
@@ -38,7 +38,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <ol>
 	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
 	<li>Copy and paste the following into the text field:</li>
-	<li style="list-style-type:none;"><pre><code class="language-powershell">reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f</code></pre></li>
+	<li style="list-style-type:none;"><code class="">reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f</code></li>
 	<li value="3">Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
