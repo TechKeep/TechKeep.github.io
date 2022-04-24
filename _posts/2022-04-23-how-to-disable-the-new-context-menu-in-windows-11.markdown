@@ -1,6 +1,7 @@
 ---
 title: Disable the new context menu in Windows 11
 subtitle: Here's how to easily disable or re-enable the new Windows 11 context menu, also known as the "right-click" menu.
+metadescription: For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now. Here's how.
 layout: post
 category: post
 date: 2022-04-23 23:39:05
