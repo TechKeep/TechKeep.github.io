@@ -12,8 +12,6 @@ image: /img/uploads/2022-04-23/how-to-disable-the-new-context-menu-in-windows-11
 photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank">Microsoft</a>)</em>
 ---
 
-<meta name="description" content="For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now. Here's how.">
-
 {% include post-image.html %}
 
 <p>For some people, it's way more convenient to not have an extra layer to click through in order to quickly access something within the context menu. Fortunately, it's possible to revert it, at least for now. Here's how.</p>
@@ -27,8 +25,8 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <ol>
 	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
 	<li>Copy and paste the following into the text field:</li>
-	<pre><code class="language-powershell">reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve</code></pre>
-	<li>Confirm the dialog (or press Enter)</li>
+	<li style="list-style-type:none;"><pre><code class="language-powershell">reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve</code></pre></li>
+	<li value="3">Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
 &nbsp;
@@ -39,7 +37,7 @@ photocredit: <em>(Photo credit - <a href="https://microsoft.com" target="_blank"
 <ol>
 	<li>Open up the "Run" dialog using <em>Win+R</em> (pressing the Windows key and the R key at the same time)</li>
 	<li>Copy and paste the following into the text field:</li>
-	<pre><code class="language-powershell">reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f</code></pre>
-	<li>Confirm the dialog (or press Enter)</li>
+	<li style="list-style-type:none;"><pre><code class="language-powershell">reg.exe delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f</code></pre></li>
+	<li value="3">Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
