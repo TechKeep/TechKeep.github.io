@@ -255,14 +255,6 @@ pre {
   padding-bottom: 0px;
 }
 
-.ol-li-separation>li {
-  margin-bottom: 20px !important;
-}
-
-.code-word-wrap {
-   word-wrap: break-word !important;
-}
-
 /* Footer */
 
 footer {
