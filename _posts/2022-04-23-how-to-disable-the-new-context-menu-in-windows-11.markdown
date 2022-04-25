@@ -6,8 +6,8 @@ layout: post
 category: post
 date: 2022-04-23 23:39:05
 categories: ['sidebar-posts', 'windows', 'windows-tips']
-cattagText: Windows Tips
-cattag: windows-tips
+cattagText: Windows
+cattag: windows
 image: /img/post-headers/windows11_logo_bg.png
 photocredit: <em>(Photo credit - <a href="https://news.microsoft.com/june-24-2021/" target="_blank">Microsoft</a>)</em>
 ---

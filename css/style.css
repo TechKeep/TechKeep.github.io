@@ -276,9 +276,13 @@ footer {
 }
 
 .cattag-site-news {
-  background-color: purple;
+  background-color: #4B0082;
 }
 
-.cattag-windows-tips {
-  background-color: blue;
+.cattag-windows {
+  background-color: #1151d3;
+}
+
+.cattag-linux {
+  background-color: #ad8318;
 }
