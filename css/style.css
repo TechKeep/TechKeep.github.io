@@ -256,7 +256,7 @@ pre {
 }
 
 .ol-li-separation>li {
-  margin-bottom: 20px;
+  margin-bottom: 20px !important;
 }
 
 .code-word-wrap {
