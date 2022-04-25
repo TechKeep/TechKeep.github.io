@@ -116,29 +116,51 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 	<li><b>The script will exit.</b></li>
 </ol>
 
-<p>The basic ArchLinux installation is now over. You can now eject your installation media and reboot the machine and be met with GRUB2 (a boot manager), which will allow you to boot into your ArchLinux installation.</p>
+<p>The basic ArchLinux installation is now complete. You can now eject your installation media and reboot the machine and be met with GRUB2 (a boot manager), which will allow you to boot into your ArchLinux installation.</p>
 
-<p>Of course, this script only installed the base operating system. You will boot in command-line mode. If you want a <em>Desktop Environment</em> and some basic apps, check out my recommendations in <b><em>Step 3 - Bells and Whistles</em></b>.</p>
+<p>Of course, this script only installed the base operating system. You will boot in commandline mode. If you want a <em>Desktop Environment</em> and some basic apps, check out my recommendations in <b><em>Step 3 - Bells and Whistles</em></b>.</p>
+
+<div style="padding-top:25px;padding-bottom:25px;text-align:center;">
+	<img alt="Screenshot of Neofetch output in commandline" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/neofetch-logged-in-as-root.png" style="width:100%;max-width:618px;"/>
+	<br><span class="post-photo-credit"><em><code>NEOFETCH</code> was used to display system information in commandline mode.</em></span>
+</div>
 
 &nbsp;
 
 <h5>Step 3 - Bells and Whistles</h5>
 
-<p>This section will be expanded on later, but here's my basic recommendations for the time being. This will install the <code>LXDM</code> session manager, the <code>XFCE</code> desktop environment, <code>PULSEAUDIO</code> drivers to get audio, <code>SUDO</code> so you can use it later to make a normal account with <em>"sudo rights"</em> and <code>FIREFOX</code> so you can browse the web.</p>
+<p>This section will be expanded on later, but here's my basic recommendations for the time being.</p>
 
 <ol class="ol-li-separation">
-	<li><b>Start by refreshing packages and updating everything:</b></li>
+	<li><b>Start by refreshing packages and updating everything:</b><br><em>(If there's an error, send the command again. It... should work.)</em></li>
 	<li style="list-style-type:none;">
 		<pre><code class="language-bash">pacman -Syu</code></pre>
 	</li>
 	<li value="2"><b>Use the following command to install a few things:</b>
 	</li>
 	<li style="list-style-type:none;">
-		<pre><code class="language-none">pacman -Syu lxdm xfce4 xfce4-goodies pulseaudio sudo firefox</code></pre>
+		<pre><code class="language-none">pacman -Syu lxdm xfce4 xfce4-goodies pulseaudio pavucontrol sudo firefox neofetch</code></pre>
 	</li>
-	<li value="3">In order to automatically launch the session manager (that you just installed) at boot, you will need to manually enable it with the following command:</li>
+	<li value="3"><b>In order to automatically launch the session manager (that you just installed) at boot, you will need to manually enable it with the following command:</b></li>
 	<li style="list-style-type:none;">
 		<pre><code class="language-none">systemctl enable lxdm</code></pre>
 	</li>
 	<li value="4"><b>Once all of this is done, simply reboot and you should be met with the session manager.</b></li>
+	<li value="5"><b>Don't forget to select your Desktop Environment in the Session Manager of your choice before logging in.</b></li>
 </ol>
+
+<div style="padding-top:25px;padding-bottom:25px;text-align:center;">
+	<img alt="Desktop Environment selection form" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/select-xfce-session.png" style="width:100%;max-width:305px;"/>
+	<br><span class="post-photo-credit"><em>With <code>LXDM</code>, this is located in the bottom left corner.</em></span>
+</div>
+
+&nbsp;
+
+<h5>Conclusion</h5>
+
+<p>You now have a full Desktop Environment with ArchLinux. You can customize it however you want!</p>
+
+<div style="padding-top:25px;padding-bottom:25px;text-align:center;">
+	<img alt="Screenshot of XFCE4's Desktop Environment" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/xfce4-desktop-environment.png" style="width:100%;max-width:800px;"/>
+	<br><span class="post-photo-credit"><em>Screenshot of the final result when using <code>XFCE</code> as a Desktop Environment with its default configuration.<code></code></em></span>
+</div>
