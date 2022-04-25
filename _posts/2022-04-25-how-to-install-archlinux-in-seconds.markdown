@@ -118,7 +118,7 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 
 <h5>Step 3 - Bells and Whistles</h5>
 
-<p>This section will be expanded on later, but here's my basic recommendations for the time being. This will install the <code>LXDM</code> session manager, the <code>XFCE</code> desktop environment, <code>PULSEAUDIO</code> drivers to get audio, <code>SUDO</code> so you can make and use a new user account later, </p>
+<p>This section will be expanded on later, but here's my basic recommendations for the time being. This will install the <code>LXDM</code> session manager, the <code>XFCE</code> desktop environment, <code>PULSEAUDIO</code> drivers to get audio, <code>SUDO</code> so you can use it later to make a normal account with <em>"sudo rights"</em> and <code>FIREFOX</code> so you can browse the web.</p>
 
 <ol class="ol-li-separation">
 	<li><b>Start by refreshing packages and updating everything:</b></li>
@@ -130,5 +130,9 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 	<li style="list-style-type:none;">
 		<pre><code class="language-none">pacman -Syu lxdm xfce4 xfce4-goodies pulseaudio sudo firefox</code></pre>
 	</li>
-	<li value="3"><b>Once everything is installed, simply reboot.</b></li>
+	<li value="3">In order to automatically launch the session manager (that you just installed) at boot, you will need to manually enable it with the following command:</li>
+	<li style="list-style-type:none;">
+		<pre><code class="language-none">systemctl enable lxdm</code></pre>
+	</li>
+	<li value="4"><b>Once all of this is done, simply reboot and you should be met with the session manager.</b></li>
 </ol>
