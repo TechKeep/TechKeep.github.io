@@ -24,7 +24,7 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 
 <p>So, I recently re-made my personal install script and <a href="https://github.com/TechKeep/archun" target="_blank">made it available over on TechKeep's GitHub repository</a> and named it "ArchUn".</p>
 
-<p><b>A fair warning, however: this script will format and use the whole destination drive, so it's not meant to add ArchLinux as a dual-boot option</b>. Of course, you can always install this first, and then install a dual-boot-friendly operating system afterwards.</p>
+<p><b>A fair warning, however: this script will format and use the whole destination drive (in other words, erase <em>everything</em>, so it's not meant to be used to add ArchLinux as a dual-boot option</b>. Of course, you can always install this first, and then install a dual-boot-friendly operating system afterwards.</p>
 
 &nbsp;
 
