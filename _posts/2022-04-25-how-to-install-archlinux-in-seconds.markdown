@@ -12,6 +12,12 @@ image: /img/post-headers/archlinux_logo_bg.png
 photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>)</em>-->
 ---
 
+<style>
+.ol-li-separation>li {
+  margin-bottom: 20px !important;
+}
+</style>
+
 {% include post-image.html %}
 
 <p>Over time, I found myself having to install ArchLinux on various devices and Virtual Machines a lot for test purposes. Of course, I could've installed it once and then simply cloned it to new devices or VMs, but this was not always ideal. Sometimes, I needed fresh and up-to-date installs.</p>
