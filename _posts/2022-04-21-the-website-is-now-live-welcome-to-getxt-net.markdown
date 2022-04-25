@@ -1,14 +1,14 @@
 ---
 title: The website is now live. Welcome to TechKeep.net!
 subtitle: This website will be updated very frequently until it reaches a stable state. More details below.
+metadescription: Tech tips, tutorials and gaming content covering both new and old devices on all platforms, curated by a dev.
 layout: post
 category: post
 date: 2022-04-21 13:29:40
-categories: ['sidebar-posts', 'important', 'site-news']
-tags: ['important', 'site-news']
+categories: ['sidebar-posts', 'site-news']
 cattagText: Site News
 cattag: site-news
-image: /img/uploads/2022-04-21/the-website-is-now-live-welcome-to-techkeep-net/post-image.jpg
+image: /img/post-headers/various_retro_tech.jpg
 photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
 ---
 
