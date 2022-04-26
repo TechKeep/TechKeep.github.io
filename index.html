@@ -6,15 +6,29 @@ paginate: true
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12">
-  <a href="{{post.url}}" class="clickable-article-link">
-    <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image"/>
-    <h3 class="FALP-article-tag cattag-{{post.cattag}}">{{post.cattagText}}</h3>
-    <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
-    <h2 class="FALP-article-title">{{post.title}}</h2>
-  </a>
-</article> <!-- /FALP-article -->
+  {% if forloop.first == true %}
+    <article class="FALP-article col-xl-12 col-lg-12 col-md-12 col-sm-12">
+      <a href="{{post.url}}" class="clickable-article-link">
+        <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image"/>
+        <h3 class="FALP-article-tag cattag-{{post.cattag}}">{{post.cattagText}}</h3>
+        <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
+        <h2 class="FALP-article-title">{{post.title}}</h2>
+      </a>
+    </article> <!-- /FALP-article -->
+  {% else %}
+    <article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12">
+      <a href="{{post.url}}" class="clickable-article-link">
+        <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image"/>
+        <h3 class="FALP-article-tag cattag-{{post.cattag}}">{{post.cattagText}}</h3>
+        <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
+        <h2 class="FALP-article-title">{{post.title}}</h2>
+      </a>
+    </article> <!-- /FALP-article -->
+  {% endif %}
 {% endfor %}
+
+
+
 
 <script>
   var nbrOfArticles = document.getElementsByClassName("FALP-article").length;
