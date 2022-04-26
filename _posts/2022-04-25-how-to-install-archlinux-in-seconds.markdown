@@ -5,7 +5,7 @@ metadescription: This unattended ArchLinux installation script can save you a lo
 layout: post
 category: post
 date: 2022-04-25 12:39:15
-categories: ['linux', 'linux-tips']
+categories: ['sidebar-posts', 'linux', 'linux-tips']
 cattagText: Linux
 cattag: linux
 image: /img/post-headers/archlinux_logo_bg.png
