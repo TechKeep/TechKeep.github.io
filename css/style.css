@@ -90,6 +90,10 @@ pre {
   z-index: 11;
 }
 
+.FALP-article-in-categories {
+  float: none;
+}
+
 .FALP-article-bg-image {
   width: 100%;
   min-height: 375px;
