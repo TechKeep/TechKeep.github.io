@@ -32,7 +32,7 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 
 <h4>Preparing for installation</h4>
 
-<p>The first thing you need to do is to grab ArchLinux's latest <em>.iso</em> file from their <a href="https://archlinux.org/download/" target="_blank">downloads page</a>. Once you have that, prepare the installation media of your choice using tools such as <a href="https://www.balena.io/etcher/" target="_blank">etcher</a> or <a href="https://rufus.ie/en/" target="_blank">rufus</a> (<em>you do not need to use these tools if you are installing ArchLinux in a Virtual Machine; you only need the .iso file</em>) and boot up the machine with the installation media.</p>
+<p>The first thing you need to do is to grab ArchLinux's latest <em>.iso</em> file from their <a href="https://archlinux.org/download/" target="_blank">download page</a>. Once you have that, prepare the installation media of your choice using tools such as <a href="https://www.balena.io/etcher/" target="_blank">etcher</a> or <a href="https://rufus.ie/en/" target="_blank">rufus</a> (<em>you do not need to use these tools if you are installing ArchLinux in a Virtual Machine; you only need the .iso file</em>) and boot up the machine with the installation media.</p>
 
 <p>Once you have booted into the installation media and are presented with a command prompt, you can start the process below.</p>
 
