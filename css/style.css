@@ -18,6 +18,11 @@ pre {
   max-height: 400px;
 }
 
+code {
+  font-size: 16px;
+  font-family: 'Consolas', monospace;
+}
+
 .header-banner-container {
   color: white;
   text-align: center;
@@ -51,6 +56,40 @@ pre {
 
 .navbar-toggler {
   margin: 10px 0px;
+  border: 2px solid #777 !important;
+}
+
+.dropdown-menu {
+  background-color: #333;
+  padding-top: 25px;
+  border: 0px solid #777;
+}
+
+.dropdown-item {
+  color: rgba(255, 255, 255, 0.55);
+  padding: 15px;
+  border: 1px solid #777;
+}
+
+@media (min-width: 991.98px) {
+  .dropdown-menu {
+    padding: 0;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .nav-item {
+    padding: 25px 22px;
+  }
+  .dropdown-item {
+    padding: 25px;
+  }
+}
+
+.dropdown-item:hover,
+.dropdown-item:active {
+  background-color: #333;
+  color: rgba(255, 255, 255, 1);
 }
 
 .the-sidebar-container {
@@ -227,7 +266,7 @@ pre {
 .the-full-article-author,
 .the-full-article-date,
 .post-photo-credit {
-  font-size: 14px;
+  /*font-size: 14px;*/
 }
 
 .the-full-article-tag {
