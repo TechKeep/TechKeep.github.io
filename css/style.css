@@ -120,6 +120,16 @@ code {
   padding: 5px 15px 5px 15px;
 }
 
+.post-history-sidebar-item {
+  padding: 15px 5px;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.post-history-sidebar-item a {
+  text-decoration: none;
+}
+
 .FALP-article {
   border: 5px solid transparent;
   min-height: 375px;
