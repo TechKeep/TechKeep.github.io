@@ -54,7 +54,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 
 
 <div style="padding-top:25px;padding-bottom:25px;text-align:center;">
-	<img alt="Fdisk command output" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/fdisk_-l_output.png" style="width:100%;max-width:480px;"/>
+	<img alt="Fdisk command output" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/fdisk_-l_output.png" width="100%" height="100%" style="max-width:480px;"/>
 	<br><span class="post-photo-credit"><em>The output of the fdisk command. I have highlighted what you want to know with a green rectangle.</em></span>
 </div>
 
@@ -125,7 +125,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 <p>Of course, this script only installed the base operating system. You will boot in commandline mode. If you want a <em>Desktop Environment</em> and some basic apps, check out my recommendations in <b><em>Step 3 - Bells and Whistles</em></b>.</p>
 
 <div style="padding-top:25px;padding-bottom:25px;text-align:center;">
-	<img alt="Screenshot of Neofetch output in commandline" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/neofetch-logged-in-as-root.png" style="width:100%;max-width:618px;"/>
+	<img alt="Screenshot of Neofetch output in commandline" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/neofetch-logged-in-as-root.png" width="100%" height="100%" style="max-width:618px;"/>
 	<br><span class="post-photo-credit"><em><code>NEOFETCH</code> was used to display system information in commandline mode.</em></span>
 </div>
 
@@ -154,7 +154,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 </ol>
 
 <div style="padding-top:25px;padding-bottom:25px;text-align:center;">
-	<img alt="Desktop Environment selection form" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/select-xfce-session.png" style="width:100%;max-width:305px;"/>
+	<img alt="Desktop Environment selection form" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/select-xfce-session.png" width="100%" height="100%" style="max-width:305px;"/>
 	<br><span class="post-photo-credit"><em>With <code>LXDM</code>, this is located in the bottom left corner.</em></span>
 </div>
 
@@ -165,7 +165,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 <p>You now have a full Desktop Environment with ArchLinux. You can customize it however you want!</p>
 
 <div style="padding-top:25px;padding-bottom:25px;text-align:center;">
-	<img alt="Screenshot of XFCE4's Desktop Environment" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/xfce4-desktop-environment.png" style="width:100%;max-width:800px;"/>
+	<img alt="Screenshot of XFCE4's Desktop Environment" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/xfce4-desktop-environment.png" width="100%" height="100%" style="max-width:800px;"/>
 	<br><span class="post-photo-credit"><em>Screenshot of the final result when using <code>XFCE</code> as a Desktop Environment with its default configuration.<code></code></em></span>
 </div>
 
