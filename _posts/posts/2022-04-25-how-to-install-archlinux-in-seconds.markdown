@@ -14,12 +14,6 @@ twitterlink: https://twitter.com/TechKeepNet/status/1519167145942429697
 redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_archlinux_in_seconds/
 ---
 
-<style>
-.ol-li-separation>li {
-  margin-bottom: 20px !important;
-}
-</style>
-
 {% include post-image.html %}
 
 <p>Over time, I found myself having to install ArchLinux on various devices and Virtual Machines a lot for test purposes. Of course, I could've installed it once and then simply cloned it to new devices or VMs, but this was not always ideal. Sometimes, I needed fresh and up-to-date installs.</p>

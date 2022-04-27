@@ -127,6 +127,16 @@ code {
   font-style: italic;
 }
 
+.socials-sidebar-item {
+  padding: 15px;
+  height: 100%;
+  display: inline-block;
+}
+
+.socials-sidebar-item:hover {
+  text-decoration: underline;
+}
+
 .post-history-sidebar-item a {
   text-decoration: none;
 }
@@ -307,6 +317,10 @@ code {
   padding: 20px;
   padding-top: 50px;
   padding-bottom: 0px;
+}
+
+.ol-li-separation>li {
+  margin-bottom: 20px !important;
 }
 
 /* Social Media Comments */
