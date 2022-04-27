@@ -5,8 +5,8 @@ paginate: true
 ---
 
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  {% if forloop.first == true %}
+{% if paginator.page == 1 %}
+  {% for post in paginator.posts limit:1 %}
     <article class="FALP-article col-xl-12 col-lg-12 col-md-12 col-sm-12">
       <a href="{{post.url}}" class="clickable-article-link">
         <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image" width="100%" height="100%"/>
@@ -15,7 +15,8 @@ paginate: true
         <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
       </a>
     </article> <!-- /FALP-article -->
-  {% else %}
+  {% endfor %}
+  {% for post in paginator.posts offset:1 %}
     <article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12">
       <a href="{{post.url}}" class="clickable-article-link">
         <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image" width="100%" height="100%"/>
@@ -24,13 +25,31 @@ paginate: true
         <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
       </a>
     </article> <!-- /FALP-article -->
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in paginator.posts %}
+  <article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12">
+    <a href="{{post.url}}" class="clickable-article-link">
+      <img alt="Article preview image" src='{{post.image}}' class="FALP-article-bg-image" width="100%" height="100%"/>
+      <h2 class="FALP-article-title">{{post.title}}</h2>
+      <h3 class="FALP-article-tag cattag-{{post.cattag}}">{{post.cattagText}}</h3>
+      <h3 class="FALP-article-date">{{post.date | date: "%-d %b %Y"}}</h3>
+    </a>
+  </article> <!-- /FALP-article -->
+  {% endfor %}
+{% endif %}
 
-<script>
-  var nbrOfArticles = document.getElementsByClassName("FALP-article").length;
-  var phantomArticle = document.getElementsByClassName("FALP-article-container")[0];
-  if (nbrOfArticles < 2) {
-    phantomArticle.innerHTML = phantomArticle.innerHTML + '<article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12"><a href="/" class="clickable-article-link"><img alt="Article preview image" src="/img/default/header-image.jpg" class="FALP-article-bg-image" width="100%" height="100%"/><h2 class="FALP-article-title">Return to front page</h2><h3 class="FALP-article-tag">Uncategorized</h3><h3 class="FALP-article-date">None</h3></a></article>';
-  }
-</script>
+
+
+{% if paginator.page > 1 %}
+  <script>
+    var nbrOfArticles = document.getElementsByClassName("FALP-article").length;
+    var phantomArticle = document.getElementsByClassName("FALP-article-container")[0];
+    if (nbrOfArticles % 2 == 0) {
+      phantomArticle.innerHTML = phantomArticle.innerHTML + '<article class="FALP-article col-xl-12 col-lg-12 col-md-12 col-sm-12"><a href="/" class="clickable-article-link"><img alt="Article preview image" src="/img/default/header-image.jpg" class="FALP-article-bg-image" width="100%" height="100%"/><h2 class="FALP-article-title">Return to front page</h2></a></article>';
+    } else {
+      phantomArticle.innerHTML = phantomArticle.innerHTML + '<article class="FALP-article col-xl-6 col-lg-6 col-md-12 col-sm-12"><a href="/" class="clickable-article-link"><img alt="Article preview image" src="/img/default/header-image.jpg" class="FALP-article-bg-image" width="100%" height="100%"/><h2 class="FALP-article-title">Return to front pageZZZZZZZZZ</h2></a></article>';
+    }
+  </script>
+{% endif %}
+
