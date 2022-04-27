@@ -308,6 +308,34 @@ code {
   padding-bottom: 0px;
 }
 
+.social-comments {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.social-comments>p {
+  padding: 0;margin: 0;
+}
+
+.social-icon-div {
+  margin: 20px;
+  padding: 5px;
+}
+
+.social-icon-div:hover {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+.social-icon-div>a {
+  text-decoration: none;
+}
+
+.social-icon {
+  width: 64px;
+  height: 64px;
+}
+
 /* Footer */
 
 footer {

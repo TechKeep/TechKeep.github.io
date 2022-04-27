@@ -10,6 +10,8 @@ cattagText: Site News
 cattag: site-news
 image: /img/post-headers/various_retro_tech.jpg
 photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
+twitterlink: https://twitter.com/TechKeepNet/
+redditlink: https://www.reddit.com/r/TechKeep/
 ---
 
 {% include post-image.html %}
@@ -33,3 +35,5 @@ photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
 <p>Alright, this pretty much sums it up. I hope you'll enjoy what this website will have to offer!</p>
 
 <p>- TechKeep</p>
+
+{% include comments-social.html %}

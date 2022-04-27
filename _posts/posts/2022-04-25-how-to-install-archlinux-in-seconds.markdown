@@ -10,6 +10,8 @@ cattagText: Linux
 cattag: linux
 image: /img/post-headers/archlinux_logo_bg.png
 photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>)</em>-->
+twitterlink: https://twitter.com/TechKeepNet/status/1519139608914706432
+redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_archlinux_in_seconds/
 ---
 
 <style>
@@ -166,3 +168,5 @@ photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>
 	<img alt="Screenshot of XFCE4's Desktop Environment" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/xfce4-desktop-environment.png" style="width:100%;max-width:800px;"/>
 	<br><span class="post-photo-credit"><em>Screenshot of the final result when using <code>XFCE</code> as a Desktop Environment with its default configuration.<code></code></em></span>
 </div>
+
+{% include comments-social.html %}
