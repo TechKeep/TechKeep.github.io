@@ -10,7 +10,7 @@ cattagText: Linux
 cattag: linux
 image: /img/post-headers/archlinux_logo_bg.png
 photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>)</em>-->
-twitterlink: https://twitter.com/TechKeepNet/status/1519139608914706432
+twitterlink: https://twitter.com/TechKeepNet/status/1519167145942429697
 redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_archlinux_in_seconds/
 ---
 

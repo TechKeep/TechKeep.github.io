@@ -10,7 +10,7 @@ cattagText: Windows
 cattag: windows
 image: /img/post-headers/windows11_logo_bg.png
 photocredit: <em>(Photo credit - <a href="https://news.microsoft.com/june-24-2021/" target="_blank">Microsoft</a>)</em>
-twitterlink: https://twitter.com/TechKeepNet/status/1519139473707126784
+twitterlink: https://twitter.com/TechKeepNet/status/1519166970054287360
 redditlink: https://www.reddit.com/r/TechKeep/comments/ucskgs/disable_the_new_context_menu_in_windows_11/
 ---
 
