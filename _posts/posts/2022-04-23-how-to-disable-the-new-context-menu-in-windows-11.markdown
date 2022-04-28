@@ -31,7 +31,9 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskgs/disable_the_new_co
 	<li value="3">Confirm the dialog (or press Enter)</li>
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
+
 &nbsp;
+
 <h4>Re-enable the new context menu</h4>
 
 <p>If you previously have disabled the new context menu and wish to re-enable it, the process is just as easy.</p>
