@@ -4,5 +4,5 @@ plugins: ['jekyll-paginate']
 paginate: 5
 paginate_path: /page/:num/
 permalink: /article/:title/
-url: https://TechKeep.net
+url: https://techkeep.net
 baseurl: ""
