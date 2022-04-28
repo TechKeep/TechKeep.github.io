@@ -1,6 +1,6 @@
 name: TechKeep.net
 title: TechKeep.net
-plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate', 'jekyll-sitemap']
 paginate: 5
 paginate_path: /page/:num/
 permalink: /article/:title/
