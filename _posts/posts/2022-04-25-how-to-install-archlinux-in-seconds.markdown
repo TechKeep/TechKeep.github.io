@@ -11,7 +11,7 @@ categories: ['sidebar-posts', 'linux', 'linux-tips']
 cattagText: Linux
 cattag: linux
 image: /img/post-headers/archlinux_logo_bg.png
-photocredit: <!--<em>(Photo credit - <a href="#" target="_blank">Source Name</a>)</em>-->
+photocredit: <!--<em>(Photo credit - <a href="#" target="_blank" rel="noopener">Source Name</a>)</em>-->
 twitterlink: https://twitter.com/TechKeepNet/status/1519167145942429697
 redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_archlinux_in_seconds/
 ---
@@ -20,9 +20,9 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 
 <p>Over time, I found myself having to install ArchLinux on various devices and Virtual Machines a lot for test purposes. Of course, I could've installed it once and then simply cloned it to new devices or VMs, but this was not always ideal. Sometimes, I needed fresh and up-to-date installs.</p>
 
-<p>So, I recently re-made my personal install script and <a href="https://github.com/TechKeep/archun" target="_blank">made it available over on TechKeep's GitHub repository</a> and named it "ArchUn".</p>
+<p>So, I recently re-made my personal install script and <a href="https://github.com/TechKeep/archun" target="_blank" rel="noopener">made it available over on TechKeep's GitHub repository</a> and named it "ArchUn".</p>
 
-<p>It only takes a few seconds to download and launch the script with its default settings. With it, performing a basic ArchLinux installation <b><em>takes about 1 minute</em></b> (depending on download speeds). Please note that the script doesn't install a Desktop Environment automatically yet, but it eventually will have an option for it. In the meantime, I have included an extra step at the bottom of the article to show you how to do it manually (and it's very simple). The whole process (initial installation <em>and</em> installing a Desktop Environment) takes under 5 minutes in total. <a href="https://www.youtube.com/watch?v=vbfKL4s_P-Y" target="_blank">Here's a demo I uploaded to YouTube; it only took under 4 minutes.</a></p>
+<p>It only takes a few seconds to download and launch the script with its default settings. With it, performing a basic ArchLinux installation <b><em>takes about 1 minute</em></b> (depending on download speeds). Please note that the script doesn't install a Desktop Environment automatically yet, but it eventually will have an option for it. In the meantime, I have included an extra step at the bottom of the article to show you how to do it manually (and it's very simple). The whole process (initial installation <em>and</em> installing a Desktop Environment) takes under 5 minutes in total. <a href="https://www.youtube.com/watch?v=vbfKL4s_P-Y" target="_blank" rel="noopener">Here's a demo I uploaded to YouTube; it only took under 4 minutes.</a></p>
 
 <p><b>A fair warning, however: this script will format and use the whole destination drive (in other words, erase <em>everything</em>), so it's not meant to be used to add ArchLinux as a dual-boot option</b>. Of course, you can always install this first, and then install a dual-boot-friendly operating system afterwards.</p>
 
@@ -30,7 +30,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 
 <h4>Preparing for installation</h4>
 
-<p>The first thing you need to do is to grab ArchLinux's latest <em>.iso</em> file from their <a href="https://archlinux.org/download/" target="_blank">download page</a>. Once you have that, prepare the installation media of your choice using tools such as <a href="https://www.balena.io/etcher/" target="_blank">etcher</a> or <a href="https://rufus.ie/en/" target="_blank">rufus</a> (<em>you do not need to use these tools if you are installing ArchLinux in a Virtual Machine; you only need the .iso file</em>) and boot up the machine with the installation media.</p>
+<p>The first thing you need to do is to grab ArchLinux's latest <em>.iso</em> file from their <a href="https://archlinux.org/download/" target="_blank" rel="noopener">download page</a>. Once you have that, prepare the installation media of your choice using tools such as <a href="https://www.balena.io/etcher/" target="_blank" rel="noopener">etcher</a> or <a href="https://rufus.ie/en/" target="_blank" rel="noopener">rufus</a> (<em>you do not need to use these tools if you are installing ArchLinux in a Virtual Machine; you only need the .iso file</em>) and boot up the machine with the installation media.</p>
 
 <p>Once you have booted into the installation media and are presented with a command prompt, you can start the process below.</p>
 
