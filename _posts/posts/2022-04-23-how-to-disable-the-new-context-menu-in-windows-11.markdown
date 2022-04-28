@@ -7,7 +7,7 @@ authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
 category: post
 date: 2022-04-23 23:39:05
-categories: ['sidebar-posts', 'windows', 'windows-tips']
+categories: ['pinned', 'windows', 'windows-tips']
 cattagText: Windows
 cattag: windows
 image: /img/post-headers/windows11_logo_bg.jpg

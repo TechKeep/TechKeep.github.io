@@ -7,7 +7,7 @@ authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
 category: post
 date: 2022-04-25 12:39:15
-categories: ['sidebar-posts', 'linux', 'linux-tips']
+categories: ['pinned', 'linux', 'linux-tips']
 cattagText: Linux
 cattag: linux
 image: /img/post-headers/archlinux_logo_bg.png
