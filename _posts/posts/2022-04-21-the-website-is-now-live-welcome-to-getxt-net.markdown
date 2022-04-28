@@ -2,6 +2,8 @@
 title: The website is now live. Welcome to TechKeep.net!
 subtitle: This website will be updated very frequently until it reaches a stable state. More details below.
 metadescription: Tech tips, tutorials and gaming content covering both new and old devices on all platforms, curated by a dev.
+author: TechKeep
+authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
 category: post
 date: 2022-04-21 13:29:40

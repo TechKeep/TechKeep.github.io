@@ -2,6 +2,8 @@
 title: How to install ArchLinux in seconds
 subtitle: Yes, I made an ArchLinux install script. Using this script can save you a lot of time. It goes through all the initial steps automatically, so the only thing you need to do is launch the script and wait until it's done. Get the script, launch the script, done. Here's how.
 metadescription: This unattended ArchLinux installation script can save you a lot of time. Get the script, launch the script, done.
+author: TechKeep
+authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
 category: post
 date: 2022-04-25 12:39:15

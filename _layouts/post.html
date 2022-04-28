@@ -4,7 +4,7 @@
 <!-- Metadescription -->
 <meta name="description" content="{{page.metadescription}}">
 
-<!-- Google Adsense -->
+<!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9223905550275061" crossorigin="anonymous"></script>
 
 {% include head.html %}
@@ -38,8 +38,8 @@
             <span class="the-full-article-date" style="display:block;"><span class="fas fa-clock"></span> {{page.date | date: "%-d %b %Y"}}</span>-->
             <a href="/category/{{page.cattag}}"><div class="the-full-article-tag cattag-{{page.cattag}}">{{page.cattagText}}</div></a>
             <p>
-              <span class="the-full-article-author">By <a href="https://twitter.com/TechKeepNet">TechKeep</a></span>
-              <span class="the-full-article-date">- published on {{page.date | date: "%B %-d,  %Y"}}</span>
+              <span class="the-full-article-date">Published on {{page.date | date: "%B %-d %Y"}}</span>
+              <span class="the-full-article-author">by <a href="{{page.authormainsociallink}}" target="_blank">{{page.author}}</a></span>
             </p>
             <h3 class="the-full-article-subtitle" style="font-size: 1.25rem !important;">{{page.subtitle}}</h5>
             <hr>
