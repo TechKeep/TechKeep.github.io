@@ -7,7 +7,7 @@ authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
 category: post
 date: 2022-04-21 13:29:40
-categories: ['pinned', 'site-news']
+categories: ['site-news']
 cattagText: Site News
 cattag: site-news
 image: /img/post-headers/various_retro_tech.jpg
