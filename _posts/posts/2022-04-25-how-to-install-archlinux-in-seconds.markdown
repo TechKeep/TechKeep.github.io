@@ -48,8 +48,8 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 &nbsp;
 
 <h4 id="step1p2InstallationDrive">Step 1.2 - Installation Drive</h4>
-<div style="background-color:#fff4e0;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
-	<p><span style="font-size:18px;">/!\ <b><em>WARNING</em></b>: The default settings assume your installation drive is <code>/dev/sda</code> /!\</span></p>
+<div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
+	<p><span style="font-size:18px;">/!\ <b><em>WARNING</em></b>: The default settings assume your installation drive is <b><code>/dev/sda</code></b> /!\</span></p>
 	<p>You can find out the name of the drive you want to use using the following command (the -l is a lowercase L): <code class="language-bash">fdisk -l</code></p>
 	<div style="padding-top:25px;padding-bottom:25px;text-align:center;">
 		<img alt="Fdisk command output" src="/img/uploads/2022-04-25/how-to-install-archlinux-in-seconds/fdisk_-l_output.png" width="100%" height="100%" style="max-width:480px;"/>
@@ -57,7 +57,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 	</div>
 	<ul style="text-align:left;">
 		<li><b>If your drive's name is something other than <code>/dev/sda</code>, please follow the instructions below.</b></li>
-		<li><b>If your drive's name IS <code>/dev/sda</code>, you can move directly to "<em><a href="#step2LaunchingArchUn">Step 2 - Launching ArchUn</a></em>".</b></li>
+		<li><b>If your drive's name IS <code>/dev/sda</code>, you can move directly to "<em><a href="#step2LaunchingArchUn" style="color:#0264F7">Step 2 - Launching ArchUn</a></em>".</b></li>
 	</ul>
 </div>
 
