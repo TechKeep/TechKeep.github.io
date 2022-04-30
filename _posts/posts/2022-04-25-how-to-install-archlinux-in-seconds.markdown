@@ -66,7 +66,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 <p>In order to change your installation drive, you must follow these steps:</p>
 
 <ol class="ol-li-separation">
-	<li value="1"><b>Use <code>nano</code> to open the script in text mode:</b></li>
+	<li value="1"><b>You can use <code>nano</code> (or any other text editor of your choice) to open the script in text mode:</b></li>
 	<li style="list-style-type:none;">
 		<pre><code class="language-bash">nano archun.sh</code></pre>
 	</li>
