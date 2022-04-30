@@ -173,4 +173,8 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 	<li><b>You can carry on with the installation by following "<em><a href="#step2LaunchingArchUn">Step 2 - Launching ArchUn</a></em>".</b></li>
 </ol>
 
+&nbsp;
+
+<p style="font-style:italic;text-align:center;">Last edited on 30 Apr 2022.</p>
+
 {% include comments-social.html %}
