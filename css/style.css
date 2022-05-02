@@ -354,6 +354,60 @@ code {
   height: 64px;
 }
 
+/* Categories */
+.post-archive-item-container {
+  display:block;
+  margin: 10px;
+  background-color: #ebf6ff;
+}
+
+.post-archive-item-link {
+  color: #0264F7;
+  text-decoration:none;
+  display:inline-block;
+  width:100%;
+  padding:5px;
+  margin:5px;
+  margin-left:0px;
+}
+
+.post-archive-item-container:hover {
+  background-color: #eee;
+}
+
+.post-archive-item-image {
+  margin-right:5px;
+  float:left;
+  height:135px;
+  width:175px;
+  object-fit:cover;
+  object-position:center;
+}
+
+/* Main Page - See More */
+.main-page-see-more {
+  width: 100%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  /*color: #0264F7;*/
+  text-decoration: none;
+  padding: 30px;
+  display: inline-block;
+}
+.main-page-see-more h4:hover {
+  color: white;
+  background-color: #555;
+}
+.main-page-see-more h4 {
+  margin: 0 auto;
+  font-size: 1.5em;
+  width: 300px;
+  padding: 20px;
+  background-color: #333;
+  color: rgba(255, 255, 255, 1);
+}
+
 /* Footer */
 
 footer {
