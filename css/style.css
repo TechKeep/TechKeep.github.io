@@ -26,6 +26,13 @@ main {
   }
 }
 
+@media screen and (max-width: 991px) {
+  .post-archive-item-image {
+    width: 100% !important;
+    padding-bottom: 5px;
+  }
+}
+
 pre {
   max-height: 400px;
 }
