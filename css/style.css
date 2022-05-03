@@ -7,10 +7,22 @@ main {
   padding: 20px 30px 20px 30px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 767px) {
   main {
     padding-left: 0 !important;
     padding-right: 0 !important;
+    padding: 10px !important;
+  }
+  .the-sidebar-container {
+    width: 100% !important;
+    border-left: none !important;
+    border-right: none !important;
+    padding: 5px !important;
+  }
+  .the-full-article-container {
+    padding: 5px !important;
+    border-left: none !important;
+    border-right:  none !important;
   }
 }
 
@@ -132,6 +144,13 @@ code {
   padding: 15px;
   height: 100%;
   display: inline-block;
+}
+
+@media screen and (max-width: 412px) {
+  .socials-sidebar-item {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
 }
 
 .socials-sidebar-item:hover {
