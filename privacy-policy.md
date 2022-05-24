@@ -1,11 +1,9 @@
 ---
 title: Privacy Policy
-subtitle: Last updated - April 27, 2022
+subtitle: Last updated - May 24, 2022
 layout: privacy-policy
 permalink: /privacy-policy/
 ---
-
-<p>We use <a href="https://plausible.io/" target="_blank" rel="noreferrer noopener">Plausible.io</a> for analytics purposes, which does not collect any personal data. It anonymously records things such as the amount of visitors the website had over a certain amount of time and which web browsers were used. Check out their <a href="https://plausible.io/data-policy" target="_blank" rel="noreferrer noopener">policies</a> for more information.</p>
 
 <p>Anonymous visitor information is recorded and used by Google Analytics to obtain website statistics, which helps enhancing functionality and features of the website. This anonymous information is not shared or sold with anyone, ever. Google Analytics anonymously records things such as which browser you use, how you found this website, and tracks the amount of visitors. We do not have personally-identifiable information. If you want to opt-out of Google Analytics, Google offers a browser add-on which you can find <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noreferrer noopener">by clicking here</a>.</p>
 
