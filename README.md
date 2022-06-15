@@ -1,4 +1,4 @@
 # TechKeep.net
-TechKeep.net - Everything about tech, new and old.
+TechKeep.net - Tech tips, tutorials, and more
 
 © TechKeep - 2022

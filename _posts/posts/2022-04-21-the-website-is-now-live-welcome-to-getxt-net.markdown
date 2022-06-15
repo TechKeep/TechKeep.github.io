@@ -1,7 +1,7 @@
 ---
 title: The website is now live. Welcome to TechKeep.net!
 subtitle: This website will be updated very frequently until it reaches a stable state. More details below.
-metadescription: Everything about tech, new and old.
+metadescription: Tech tips, tutorials, and more
 author: TechKeep
 authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
