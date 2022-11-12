@@ -7,6 +7,11 @@ body {
   
 }
 
+.website-main-title {
+  text-decoration: none;
+  color: white;
+}
+
 main {
   padding: 20px 30px 20px 30px;
 }
