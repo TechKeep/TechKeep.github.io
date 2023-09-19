@@ -73,7 +73,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 	<li value="2"><b>Find the <code>DEFAULTDISK</code> variable within the "<em>User-defined variables</em>" section.</b></li>
 	<li><b>Change <code>/dev/sda</code> to the name your drive uses (which you found out with the <code>fdisk -l</code> command).</b></li>
 	<li><b>If you have an NVMe drive and its name is something like <code>/dev/nvme0n1</code>, pay attention to the comments around the variable.</b></li>
-	<li value="4"><b>Once everything is set correctly, save and exit out of the text editor.</b>
+	<li value="5"><b>Once everything is set correctly, save and exit out of the text editor.</b>
 		<br>With <code>nano</code>, you need to press <em>CTRL+X</em>, press <em>Y</em> and then press <em>ENTER</em>.
 	</li>
 </ol>
@@ -175,6 +175,6 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 
 &nbsp;
 
-<p style="font-style:italic;text-align:center;">Last edited on April 30 2022</p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on April 30 2022</p>
 
 {% include comments-social.html %}
