@@ -12,8 +12,8 @@ cattagText: Windows
 cattag: windows
 image: /img/post-headers/win10_to_win11_upgrade_stuck_at_99_percent.png
 photocredit: <!-- <em>(Photo credit - <a href="#" target="_blank" rel="noreferrer noopener">TechKeep</a>)</em> -->
-twitterlink: https://twitter.com/TechKeepNet/
-redditlink: https://www.reddit.com/r/TechKeep/
+twitterlink: https://twitter.com/TechKeepNet/status/1704240867299491997
+redditlink: https://www.reddit.com/r/TechKeep/comments/16n2fvo/how_to_fix_windows_10_to_windows_11_upgrade_stuck/
 ---
 
 {% include post-image.html %}
