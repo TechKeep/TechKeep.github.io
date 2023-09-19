@@ -11,7 +11,7 @@ categories: ['pinned', 'windows', 'windows-tips']
 cattagText: Windows
 cattag: windows
 image: /img/post-headers/force-use-local-account-win11-install.png
-photocredit: <em>(Photo credit - <a href="https://news.microsoft.com/june-24-2021/" target="_blank" rel="noreferrer noopener">Microsoft</a>)</em>
+photocredit: <!-- <em>(Photo credit - <a href="#" target="_blank" rel="noreferrer noopener">TechKeep</a>)</em> -->
 twitterlink: https://twitter.com/TechKeepNet/status/1704240910165303307
 redditlink: https://www.reddit.com/r/TechKeep/comments/16n2g54/force_using_a_local_account_during_windows_11/
 ---
