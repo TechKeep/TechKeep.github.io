@@ -4,7 +4,9 @@ body {
 }
 
 .retrofont {
-  
+  /*font-family: 'Press Start 2P', sans-serif;*/
+  font-weight: bold;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
 }
 
 .website-main-title {
@@ -55,8 +57,8 @@ code {
 .header-banner-container {
   color: white;
   text-align: center;
-  background-color: black;
-  background-image: linear-gradient(140deg, #001 0%, #002 50%, #005 75%);
+  background-color: #000022;
+  /*background-image: linear-gradient(140deg, #001 0%, #002 50%, #005 75%);*/
   background-size: 100%;
   background-position: center;
   height: 135px;
@@ -68,12 +70,12 @@ code {
   text-transform: uppercase;
   font-size: 16px;
   font-weight: bold;
-  background-color: #333 !important;
+  background-color: #212529 !important;
   padding: 0 25px 0 25px;
 }
 
 .navbar-nav .active {
-  background-color: #444;
+  background-color: #212529;
 }
 
 .navbar-nav .active .nav-link {
@@ -90,7 +92,7 @@ code {
 }
 
 .dropdown-menu {
-  background-color: #333;
+  background-color: #212529;
   padding-top: 25px;
   border: 0px solid #777;
 }
@@ -142,7 +144,7 @@ code {
   font-size: 18px;
   line-height: 40px;
   padding: 0px 15px 0px 15px;
-  background-color: #444;
+  background-color: #212529;
   color: #fff;
 }
 
