@@ -16,6 +16,8 @@ twitterlink: https://x.com/TechKeepNet/status/1976556707128946905
 redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_year_of_extended_security_updates/
 ---
 
+<p style="font-style: italic;"><a href="/files/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/frCA_comment-activer-premiere-annee-esu-gratuitement-windows-10.pdf">Get the French version of this guide (PDF, 3.9 MB) by clicking here.</a></p>
+
 {% include post-image.html %}
 
 <p>Windows 10 support is officially ending on October 14, 2025. However, it is possible to get support until October 13, 2026, for FREE. Microsoft is offering the first year of Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.</p>
