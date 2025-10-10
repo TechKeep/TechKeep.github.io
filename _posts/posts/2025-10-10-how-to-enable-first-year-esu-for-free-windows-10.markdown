@@ -16,7 +16,9 @@ twitterlink: https://x.com/TechKeepNet/status/1976556707128946905
 redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_year_of_extended_security_updates/
 ---
 
-<p style="font-style: italic;"><a href="/files/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/frCA_comment-activer-premiere-annee-esu-gratuitement-windows-10.pdf">Get the French version of this guide (PDF, 3.9 MB) by clicking here.</a></p>
+<p style="font-style: italic;"><a href="/files/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/frCA_comment-activer-premiere-annee-esu-gratuitement-windows-10.pdf">Access the French version of this guide by clicking here.</a></p>
+
+&nbsp;
 
 {% include post-image.html %}
 
