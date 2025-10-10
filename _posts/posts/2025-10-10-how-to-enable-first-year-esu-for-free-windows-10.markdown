@@ -28,12 +28,12 @@ redditlink: https://www.reddit.com/r/TechKeep/
 
 <div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
 	<b>Requirements:</b>
-	<ul style="text-align:left;">
+	<ol class="ol-li-separation" style="text-align:left;">
 		<li>The device should run Windows 10, version 22H2, and be one of the following editions: <em>Home</em>, <em>Professional</em>, <em>Professional Education</em>, or <em>Workstations</em>.</li>
 		<li>Windows has to be fully updated; all available updates must be installed.</li>
 		<li>A Microsoft account with <em>administrator</em> privileges must be used to log in to the device. It can't be a regular user account, and it can't be a child account.</li>
 		<li>To be able to have access to the extended support updates (ESU) for free, the syncing of settings must be activated (<em>Windows Backup</em>).</li>
-	</ul>
+	</ol>
 </div>
 
 &nbsp;
@@ -67,11 +67,11 @@ redditlink: https://www.reddit.com/r/TechKeep/
 	<ol class="ol-li-separation" style="text-align:left;">
 		<li>Navigate to <strong>Settings</strong> > <strong>Updates & Security</strong> > <strong>Windows Update</strong>.</li>
 		<li>If the device meets the requirements, the "<strong>Enroll</strong>" button will be visible. Simply click on it to start the process.</li>
-			<img alt="Windows (10) Update - Enroll to ESU Now" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/windows-update-win10-enroll-now.png" width="100%" height="100%" style="max-width:480px;"/>
+			<img alt="Windows (10) Update - Enroll to ESU Now" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/windows-update-win10-enroll-now.png" width="100%" height="100%" style="max-width:480px;margin-left:0;margin-right:0;padding:4px;"/>
 		<li>If the device is logged in with a local account, it will ask to log in to a Microsoft account. If device settings syncing is properly enabled, a message will confirm it and the page will allow enrolling.</li>
-			<img alt="Windows (10) ESU - Eligible" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/win10-eligible-enroll-esu.png" width="100%" height="100%" style="max-width:480px;"/>
+			<img alt="Windows (10) ESU - Eligible" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/win10-eligible-enroll-esu.png" width="100%" height="100%" style="max-width:480px;margin-left:0;margin-right:0;padding:4px;"/>
 		<li>At this point, all that is left to do is to click "<strong>Enroll</strong>". If it worked, the message "<em>Your PC is enrolled to get Extended Security Updates</em>" will show up in the Windows Update page.</li>
-			<img alt="Windows (10) Update - Enrolled to ESU" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/windows-update-win10-enrolled.png" width="100%" height="100%" style="max-width:480px;"/>
+			<img alt="Windows (10) Update - Enrolled to ESU" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/windows-update-win10-enrolled.png" width="100%" height="100%" style="max-width:480px;margin-left:0;margin-right:0;padding:4px;"/>
 		<li><em><strong>If all the requirements aren't met</strong></em>, trying to enroll will provide you with a choice: either start syncing the settings, exchange reward points, or pay a fee. The goal here is to get into the program for free, so if the free option isn't offered, <em>double-check to make sure all the requirements are met.</em></li>
 	</ol>
 </div>
