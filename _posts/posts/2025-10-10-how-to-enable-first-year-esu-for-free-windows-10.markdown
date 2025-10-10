@@ -12,8 +12,8 @@ cattagText: Windows
 cattag: windows
 image: /img/post-headers/windows10_free_esu_updates_oct_2026.png
 photocredit: <!-- <em>(Photo credit - <a href="#" target="_blank" rel="noreferrer noopener">TechKeep</a>)</em> -->
-twitterlink: https://twitter.com/TechKeepNet/
-redditlink: https://www.reddit.com/r/TechKeep/
+twitterlink: https://x.com/TechKeepNet/status/1976556707128946905
+redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_year_of_extended_security_updates/
 ---
 
 {% include post-image.html %}
