@@ -1,7 +1,7 @@
 ---
-title: Get the first year of extended security updates (ESU) for FREE on Windows 10
-subtitle: Windows 10 support ends on October 14th, 2025. However, there is a method to continue receiving updates after this date. Microsoft is offering the first year of extended security updates (ESU) for FREE, which means support can continue on Windows 10 devices until October 13th, 2026.
-metadescription: Windows 10 support is officially ending on October 14th, 2025. However, it is possible to get support until October 13th, 2026, for FREE. Microsoft is offering the first year of extended security updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.
+title: Get the first year of Extended Security Updates (ESU) for FREE on Windows 10
+subtitle: Windows 10 support ends on October 14, 2025. However, there's a method to continue receiving updates after this date. Microsoft is offering the first year of Extended Security Updates (ESU) for free, allowing support through October 13, 2026, for eligible devices.
+metadescription: Windows 10 support is officially ending on October 14, 2025. However, it is possible to get support until October 13, 2026, for FREE. Microsoft is offering the first year of Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.
 author: TechKeep
 authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
@@ -18,21 +18,21 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 
 {% include post-image.html %}
 
-<p>Windows 10 support is officially ending on October 14th, 2025. However, it is possible to get support until October 13th, 2026, for FREE. Microsoft is offering the first year of extended security updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.</p>
+<p>Windows 10 support is officially ending on October 14, 2025. However, it is possible to get support until October 13, 2026, for FREE. Microsoft is offering the first year of Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.</p>
 
-<p>Normally reserved for enterprises, Microsoft announced that extended support updates (ESU) would be available for consumers for $30 USD. Recently, they also announced a <strong>free</strong> method of obtaining them for the first year to give people more time to update to the new version of Windows (Windows 11).</p>
+<p>Typically reserved for enterprise customers, Microsoft announced that extended support updates (ESU) would be available for consumers for $30 USD. But now, they're making the <strong>first year available at no cost</strong>, giving users more time to transition to Windows 11 (or another OS).</p>
 
-<p>Signing up is possible at any time until the end of the program on October 13th, 2026.</p>
+<p>It is possible to enroll at any time up to <strong>October 13, 2026</strong>.</p>
 
-<p>To be eligible for the program, the device has to meet the following requirements:</p>
+<p>To qualify for free ESU, your device must meet all of the following:</p>
 
 <div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
 	<b>Requirements:</b>
 	<ol class="ol-li-separation" style="text-align:left;">
-		<li>The device should run Windows 10, version 22H2, and be one of the following editions: <em>Home</em>, <em>Professional</em>, <em>Professional Education</em>, or <em>Workstations</em>.</li>
+		<li>The device must run <strong>Windows 10 version 22H2</strong>, and be one of the following editions: <em>Home</em>, <em>Professional</em>, <em>Professional Education</em>, or <em>Workstations</em>.</li>
 		<li>Windows has to be fully updated; all available updates must be installed.</li>
 		<li>A Microsoft account with <em>administrator</em> privileges must be used to log in to the device. It can't be a regular user account, and it can't be a child account.</li>
-		<li>To be able to have access to the extended support updates (ESU) for free, the syncing of settings must be activated (<em>Windows Backup</em>).</li>
+		<li>Syncing of settings (via <em>Windows Backup</em>) must be enabled. You don't need file backups - just the "Settings" sync is sufficient.</li>
 	</ol>
 </div>
 
@@ -40,27 +40,27 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 
 <h4>Activating Windows Backup</h4>
 
-<p><strong>Windows Backup</strong> is a tool which allows the user to save some important elements of a device to a Microsoft account, like certain files, themes, PC settings, some apps and Wi-Fi information.</p>
+<p><strong>Windows Backup</strong> is a tool which allows users to save some important elements, such as certain files, themes, PC settings, some apps, as well as Wi-Fi information, to a Microsoft account.</p>
 
-<p>It has to be activated <strong>with, at minimum, PC settings syncing</strong>. Files do not need to be backed up; you can safely keep OneDrive out of this.</p>
+<p>The key here is ensuring that, at minimum, <strong>PC settings syncing</strong> is turned on. Files do not need to be backed up; you can safely keep OneDrive out of this.</p>
 
 <p>Here is the procedure to activate it:</p>
 
 <div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
 	<b>How to activate Windows Backup:</b>
 	<ol class="ol-li-separation" style="text-align:left;">
-		<li>Be logged in with a Microsoft account. If the device is logged in with a local account, it is possible to log in by opening up the "<strong>Settings</strong>" app, select "<strong>Accounts</strong>", "<strong>Your Info</strong>", then select "<strong>Sign in with a Microsoft account instead</strong>".</li>
-		<li>Open up the <strong>Start Menu</strong>, type "<em>backup</em>", then select "<strong>Windows Backup</strong>" in the results.</li>
+		<li>Make sure you're signed into Windows with a Microsoft account. If you're using a local account, it is possible to log in by opening up the "<strong>Settings</strong>" app, selecting "<strong>Accounts</strong>", "<strong>Your Info</strong>", then "<strong>Sign in with a Microsoft account instead</strong>".</li>
+		<li>Open up the <strong>Start Menu</strong>, type "<em>backup</em>", and select "<strong>Windows Backup</strong>" in the results.</li>
 		<li>Select "<em>Save this PC</em>", then click "<strong>Next</strong>".</li>
-		<li>Expand the categories you desire, (the process requires at minimum "<strong>Settings</strong>" to be enabled), then enable them if they aren't already. Afterwards, click "<strong>Save</strong>".</li>
+		<li>Expand the categories and enable syncing for "<strong>Settings</strong>" (this is mandatory). You may also enable others if desired. Then, click "<strong>Save</strong>".</li>
 	</ol>
 </div>
 
 &nbsp;
 
-<h4>Activating extended security updates (ESU)</h4>
+<h4>How to enroll in Extended Security Updates (ESU)</h4>
 
-<p>Once all the requirements are met, the device should be eligible to enroll in the extended security updates program.</p>
+<p>Once all the requirements are satisfied, you can enroll in the Extended Security Updates (ESU) program.</p>
 
 <div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
 	<b>To activate them:</b>
@@ -78,14 +78,14 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 			<div style="padding-top:8px;padding-bottom:8px;text-align:center;">
 				<img alt="Windows (10) Update - Enrolled to ESU" src="/img/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/windows-update-win10-enrolled.png" width="100%" height="100%" style="max-width:480px;"/>
 			</div>
-		<li><em><strong>If all the requirements aren't met</strong></em>, trying to enroll will provide you with a choice: either start syncing the settings, exchange reward points, or pay a fee. The goal here is to get into the program for free, so if the free option isn't offered, <em>double-check to make sure all the requirements are met.</em></li>
+		<li><em><strong>If all the requirements aren't met</strong></em>, you might not see the free option. The goal here is to get into the program for free, so if the free option isn't offered, <em>double-check whether all the requirements are satisfied.</em></li>
 	</ol>
 </div>
 
 &nbsp;
 
-<p>That is all. By doing this process, the device's Windows 10 installation will be safe to use for another year (until October 13th, 2026).</p>
+<p>And that’s it — by following this process, you should be able to keep your Windows 10 device receiving security updates for another year (until October 13, 2026).</p>
 
-<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on October 10 2025</p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">October 10, 2025</span></p>
 
 {% include comments-social.html %}

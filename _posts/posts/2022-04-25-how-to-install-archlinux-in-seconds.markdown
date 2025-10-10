@@ -175,6 +175,6 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskt6/how_to_install_arc
 
 &nbsp;
 
-<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on April 30 2022</p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">April 30, 2022</span></p>
 
 {% include comments-social.html %}

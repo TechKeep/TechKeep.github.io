@@ -42,6 +42,6 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/16n2fvo/how_to_fix_window
 
 <p>All done!</p>
 
-<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on September 19 2023</p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">September 19, 2023</span></p>
 
 {% include comments-social.html %}

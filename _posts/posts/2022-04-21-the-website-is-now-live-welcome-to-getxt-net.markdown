@@ -38,4 +38,8 @@ redditlink: https://www.reddit.com/r/TechKeep/
 
 <p>- TechKeep</p>
 
+&nbsp;
+
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">April 21, 2022</span></p>
+
 {% include comments-social.html %}

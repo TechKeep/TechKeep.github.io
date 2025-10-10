@@ -48,6 +48,6 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/ucskgs/disable_the_new_co
 	<li>Either reboot your computer, or restart "explorer.exe" using the task manager.</li>
 </ol>
 
-<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on April 23 2022</p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">April 23, 2022</span></p>
 
 {% include comments-social.html %}
