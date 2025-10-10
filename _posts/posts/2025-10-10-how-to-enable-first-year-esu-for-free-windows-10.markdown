@@ -84,7 +84,7 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 
 &nbsp;
 
-<p>And that’s it — by following this process, you should be able to keep your Windows 10 device receiving security updates for another year (until October 13, 2026).</p>
+<p>And that’s it - by following this process, you should be able to keep your Windows 10 device receiving security updates for another year (until October 13, 2026).</p>
 
 <p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">October 10, 2025</span></p>
 
