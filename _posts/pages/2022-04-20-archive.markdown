@@ -28,7 +28,7 @@ pagination:
           <span class="cattag-{{post.cattag}}" style="color:white;padding:2px;padding-left:5px;margin-right:5px;font-weight:bold;text-transform:uppercase;">
             {{post.cattagText}} 
           </span>
-          <span style="font-style:italic;color:#333;"> {{post.date | date: "%-d %b %Y"}}</span>
+          <span style="font-style:italic;color:#333;"> {{post.date | date: "%-d %b, %Y"}}</span>
           <br>
           <h3>{{post.title}}</h3>
           <p style="color:#000;">{{post.metadescription}}</p>

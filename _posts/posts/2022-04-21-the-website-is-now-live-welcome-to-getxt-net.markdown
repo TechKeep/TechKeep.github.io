@@ -11,7 +11,7 @@ categories: ['site-news']
 cattagText: Site News
 cattag: site-news
 image: /img/post-headers/various_retro_tech.jpg
-photocredit: <!-- <em>(Photo credit - <a href="#">Name</a>)</em> -->
+photocredit: <!-- <em>(Photo credit - <a href="#" target="_blank" rel="noreferrer noopener">Name</a>)</em> -->
 twitterlink: https://twitter.com/TechKeepNet/
 redditlink: https://www.reddit.com/r/TechKeep/
 ---

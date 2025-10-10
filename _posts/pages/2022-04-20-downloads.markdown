@@ -11,5 +11,5 @@ pagination:
 &nbsp;
 
 <ul>
-  <li><a href="https://archlinux.org/download/">ArchLinux .iso</a></li>
+  <li><a href="https://archlinux.org/download/" target="_blank" rel="noreferrer noopener">ArchLinux .iso</a></li>
 </ul>
