@@ -1,7 +1,7 @@
 ---
-title: Get the first year of Extended Security Updates (ESU) for FREE on Windows 10
-subtitle: Windows 10 support ends on October 14, 2025. However, there's a method to continue receiving updates after this date. Microsoft is offering the first year of Extended Security Updates (ESU) for free, allowing support through October 13, 2026, for eligible devices.
-metadescription: Windows 10 support is officially ending on October 14, 2025. However, it is possible to get support until October 13, 2026, for FREE. Microsoft is offering the first year of Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.
+title: Get Extended Security Updates (ESU) for FREE on Windows 10
+subtitle: Windows 10 support ended on October 14, 2025. However, there's a method to continue receiving updates after this date. Microsoft is currently offering the Extended Security Updates (ESU) for free, allowing eligible devices to be supported (with updates!) for longer.
+metadescription: Windows 10 support ended on October 14, 2025. However, there's a method to continue receiving updates after this date. Microsoft is currently offering the Extended Security Updates (ESU) for free, allowing eligible devices to be supported (with updates!) for longer.
 author: TechKeep
 authormainsociallink: https://twitter.com/TechKeepNet/
 layout: post
@@ -10,7 +10,7 @@ date: 2025-10-10 01:51:09
 categories: ['pinned', 'windows', 'windows-tips']
 cattagText: Windows
 cattag: windows
-image: /img/post-headers/windows10_free_esu_updates_oct_2026.png
+image: /img/post-headers/windows10_free_esu_updates_oct_2027.png
 photocredit: <!-- <em>(Photo credit - <a href="#" target="_blank" rel="noreferrer noopener">TechKeep</a>)</em> -->
 twitterlink: https://x.com/TechKeepNet/status/1976556707128946905
 redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_year_of_extended_security_updates/
@@ -18,15 +18,20 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 
 <p style="font-style: italic;"><a href="/files/uploads/2025-10-10/how-to-enable-first-year-esu-for-free-windows-10/frCA_comment-activer-premiere-annee-esu-gratuitement-windows-10.pdf">Access the French version of this guide by clicking here.</a></p>
 
+<div style="background-color:#ebf6ff;border:1px solid black;padding:5px;text-align:center;margin-top:30px;">
+	<b>UPDATE</b>
+	<p>Windows 10 Extended Security Updates (ESU) are now available for free through October 12, 2027, for eligible personal and consumer devices.</p>
+</div>
+
 &nbsp;
 
 {% include post-image.html %}
 
-<p>Windows 10 support is officially ending on October 14, 2025. However, it is possible to get support until October 13, 2026, for FREE. Microsoft is offering the first year of Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.</p>
+<p>Windows 10 support officially ended on October 14, 2025. However, it is possible to get support until October 12, 2027, for FREE. Microsoft is offering Extended Security Updates (ESU), free of charge, if the device meets the requirements. These requirements are very easy to meet.</p>
 
-<p>Typically reserved for enterprise customers, Microsoft announced that extended support updates (ESU) would be available for consumers for $30 USD. But now, they're making the <strong>first year available at no cost</strong>, giving users more time to transition to Windows 11 (or another OS).</p>
+<p>Typically reserved for enterprise customers, Microsoft announced that extended support updates (ESU) would be available for consumers for $30 USD a year. But now, they're making them <strong>available at no cost</strong>, giving users more time to transition to Windows 11 (or another OS).</p>
 
-<p>It is possible to enroll at any time up to <strong>October 13, 2026</strong>.</p>
+<p>It is possible to enroll at any time up to <strong>October 12, 2027</strong>.</p>
 
 <p>To qualify for free ESU, your device must meet all of the following:</p>
 
@@ -88,8 +93,8 @@ redditlink: https://www.reddit.com/r/TechKeep/comments/1o2uqlt/get_the_first_yea
 
 &nbsp;
 
-<p>And that’s it - by following this process, you should be able to keep your Windows 10 device receiving security updates for another year (until October 13, 2026).</p>
+<p>And that’s it - by following this process, you should be able to keep your Windows 10 device receiving security updates for another year (until October 12, 2027).</p>
 
-<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">October 10, 2025</span></p>
+<p style="font-style:italic;text-align:right;" class="last-edited-date">Last edited on <span style="font-style: italic;">October 30, 2026</span></p>
 
 {% include comments-social.html %}
